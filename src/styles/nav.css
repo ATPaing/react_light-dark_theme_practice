@@ -1,0 +1,25 @@
+
+
+.nav_left{
+    display: flex;
+    align-items: center;
+    gap: 0.5em;
+    
+}
+
+.nav_left p {
+    color: #00ABCA;
+    font-weight: 600;
+    font-size: 1.5rem;  
+}
+
+.nav_right{
+    display: flex;
+    align-items: center;
+    margin-left: auto;
+    gap: 0.5em;
+}
+
+
+
+
